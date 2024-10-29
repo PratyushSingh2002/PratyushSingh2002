@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
-<h3 align="center">A passionate [Your Profession or Field] from [Your Location]</h3>
+<h1 align="center">Hi there, I'm Pratyush Singh 👋</h1>
+<h3 align="center">A passionate Programmer from India</h3>
 
 <p align="center">
     <img src="https://img.shields.io/badge/-Open%20Source-blue?style=flat-square" alt="Open Source">
@@ -8,17 +8,7 @@
     <img src="https://img.shields.io/badge/-Tech%20Enthusiast-orange?style=flat-square" alt="Tech Enthusiast">
 </p>
 
----
 
-### 👨‍💻 About Me
-
-- 💼 I’m currently working at **[Your Company]** as a **[Your Position]**
-- 🌱 I’m learning **[Technology/Skill you're currently learning]**
-- 👯 Looking to collaborate on **[Topics or Projects you're interested in collaborating on]**
-- 🧩 I love solving challenges on **[Platform/Challenge, e.g., LeetCode, Codewars]**
-- ✨ Fun fact: **[Interesting fact about you]**
-
----
 
 ### 🛠 Languages and Tools
 
