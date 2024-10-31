@@ -2,8 +2,7 @@
 
 <h2>👋 Hello, I'm Pratyush Singh!</h2>
 
-<p>Current Date and Time:</p>
-<p id="datetime"></p>
+
 
 
 
