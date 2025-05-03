@@ -4,7 +4,7 @@
 
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1506748686218-bd2eb28b2e8f" alt="Tech Banner" width="100%" />
+  <img src="https://github.com/PratyushSingh2002/PratyushSingh2002/blob/main/github-header-image.png?raw=true" alt="Tech Banner" width="100%" />
 </p>
 
 <h2 align="center">I'm <span style="color:#00bfff">Pratyush Singh</span></h2>
@@ -21,7 +21,7 @@
 
 ### 🚀 About Me
 
-I am a **Software Developer** and **Data Scientist** with a strong passion for building innovative, data-driven solutions. I specialize in leveraging **machine learning**, **data analysis**, and **software engineering** principles to create scalable systems that address complex problems.
+I am a **Software Developer**  with a strong passion for building innovative, data-driven solutions. I specialize in leveraging **machine learning**, **data analysis**, and **software engineering** principles to create scalable systems that address complex problems.
 
 With a solid foundation in **Python**, **C++**, and **Java**, I have developed a deep understanding of algorithms, data structures, and optimization techniques. I am constantly looking to expand my skills by working on impactful projects, collaborating with others, and staying up-to-date with industry trends.
 
