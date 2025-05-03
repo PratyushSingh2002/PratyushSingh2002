@@ -4,7 +4,7 @@
 
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://github.com/PratyushSingh2002/PratyushSingh2002/assets/banner.png" alt="Banner" width="100%" />
+  <img src="https://images.unsplash.com/photo-1506748686218-bd2eb28b2e8f" alt="Tech Banner" width="100%" />
 </p>
 
 <h2 align="center">I'm <span style="color:#00bfff">Pratyush Singh</span></h2>
@@ -21,7 +21,11 @@
 
 ### 🚀 About Me
 
-I'm a passionate **Software Developer** and **Data Science enthusiast** who loves solving problems and building intelligent systems. I enjoy exploring data, designing algorithms, and automating real-world workflows.
+I am a **Software Developer** and **Data Scientist** with a strong passion for building innovative, data-driven solutions. I specialize in leveraging **machine learning**, **data analysis**, and **software engineering** principles to create scalable systems that address complex problems.
+
+With a solid foundation in **Python**, **C++**, and **Java**, I have developed a deep understanding of algorithms, data structures, and optimization techniques. I am constantly looking to expand my skills by working on impactful projects, collaborating with others, and staying up-to-date with industry trends.
+
+My goal is to bridge the gap between **technology** and **real-world applications** by creating products that not only solve problems but also push the boundaries of what's possible.
 
 ---
 
@@ -77,7 +81,7 @@ I'm a passionate **Software Developer** and **Data Science enthusiast** who love
 | Project | Description | Tech |
 |--------|-------------|------|
 | [Data Cleaner](https://github.com/PratyushSingh2002/Data-Cleaner) | A Python tool to clean and preprocess datasets automatically. | Python, Pandas, NumPy |
-| [Portfolio Website](https://github.com/PratyushSingh2002/portfolio-site) | Personal responsive portfolio website. | HTML, CSS, JavaScript |
+| [Portfolio Website](https://pratyush.kesug.com) | Personal responsive portfolio website. | HTML, CSS, JavaScript |
 | [Dockerized ML API](https://github.com/PratyushSingh2002/ml-api-docker) | ML model served via REST API using Docker. | Python, Flask, Docker |
 
 > _You can add more project links above or update the descriptions!_
