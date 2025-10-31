@@ -24,11 +24,7 @@
        alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushSingh2002&layout=compact&theme=tokyonight&hide_border=true" 
-       alt="Top Languages" />
-</p>
+
 
 <p align="center">
   <!-- Contribution Graph -->
