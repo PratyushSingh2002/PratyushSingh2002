@@ -2,10 +2,7 @@
 
 <h1 align="center">Hey there! Ready to explore my code lab? 🔬⚙️</h1>
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=58A6FF&center=true&vCenter=true&lines=Hey%2C+I'm+Pratyush+Singh!;Full-Stack+Developer+%F0%9F%92%BB;Tech+Explorer+%26+Learner+%F0%9F%8C%B1;Welcome+to+my+GitHub+Universe+🚀" />
-</p>
+
 
 <!-- Profile Banner -->
 <p align="center">
