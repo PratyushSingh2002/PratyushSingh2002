@@ -26,9 +26,5 @@
 </p>
 
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PratyushSingh2002&theme=github-compact&area=true" />
-</p>
-
 
 <p align="center">✨ <b>“Code. Learn. Repeat.”</b> — because every line teaches something new. 🚀</p>
